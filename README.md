@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje estou fazendo projetos FullStack utilizando JavaScript/Typescript nas duas pontas.
+- 🔭 Hoje estou fazendo projetos FullStack utilizando JavaScript/Typescript e Java.
 - 🌱 Estou Sempre estudando novas tecnologias e tendencias do mercado.
 - 😄 Pronouns: Ele/dele.
 
